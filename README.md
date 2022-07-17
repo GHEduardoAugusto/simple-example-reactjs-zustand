@@ -1,6 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+## Zustand Example: https://github.com/pmndrs/zustand
 
 Simple example zustant with ReactJS
 
